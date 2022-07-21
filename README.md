@@ -62,9 +62,9 @@ Desventaja en sigilo por armadura.
 * Death ward
 
 ### Nivel 7
-* Finger of Death
+* Finger of Death (NI SE OS OCURRA)
 
 ### Nivel $\infty$
-* Superresurrección
+* Superresurrección (NI SE OS OCURRA)
 
 
