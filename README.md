@@ -6,6 +6,7 @@
 * AC 22
 * HP 59
 * Dificultad hechizos: 15
+* Bonus ataque hechizos: +7
 * Hechizo ofensivo principal: llama sagrada, salvación de DEX a dif 15 o 2d8 de daño radiante.
 * Hechizo curativo principal: healing word, (1d4*nivel de hechizo)+4 como acción bonus.
 
