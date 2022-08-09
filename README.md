@@ -1,4 +1,4 @@
-# Marías Marcel Lupei, el Herrero Herrante
+# Marías Marcel Lupei, el Herrero Errante
 
 ![Marías](MARIAS.jpg)
 
